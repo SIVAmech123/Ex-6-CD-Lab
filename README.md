@@ -1,9 +1,9 @@
 
 # Ex-6-IMPLEMENTATION-OF-THE-BACK-END-OF-THE-COMPILER-
 IMPLEMENTATION OF THE BACK END OF THE COMPILER 
-### Name : V Raksha dharanika
-### Reg no: 212223230167
-### Date :09.05.2025
+### Name : sivakumar R
+### Reg no: 212223230209
+### Date :15.05.2025
 # Aim :
 To write a program to implement the back end of the compiler.
 # ALGORITHM
